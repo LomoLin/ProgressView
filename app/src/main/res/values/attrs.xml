@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="pvStrokeColor" format="color"/>
+        <attr name="pvStrokeWidth" format="dimension"/>
+        <attr name="pvBackgroundColor" format="color"/>
+        <attr name="pvProgressColor" format="color"/>
+        <attr name="pvMax" format="integer"/>
+        <attr name="pvProgress" format="integer"/>
+        <attr name="pvShowText" format="boolean"/>
+        <attr name="pvTextColor" format="color"/>
+        <attr name="pvTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
